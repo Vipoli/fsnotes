@@ -869,7 +869,7 @@
 "Ze0-SZ-STw.title" = "Esegui il backup manualmente";
 
 /* Class = "NSButtonCell"; title = "Note auto selection when body text matched"; ObjectID = "ZqK-gu-KdQ"; */
-"ZqK-gu-KdQ.title" = "Seleziona la nota contiente nel corpo il testo cercato";
+"ZqK-gu-KdQ.title" = "Seleziona la nota che contiene il testo cercato";
 
 /* Class = "NSButtonCell"; title = "Show notes in \"Notes\" and \"Todo\" lists"; ObjectID = "Zzw-01-JH7"; */
 "Zzw-01-JH7.title" = "Mostra le note negli elenchi \"Note\" e \"Da Fare\"";
